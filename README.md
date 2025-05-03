@@ -16,20 +16,17 @@ Tenho experiência em arquiteturas modulares, design responsivo e otimização d
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-purple?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAIAAAUAAarVyFEAAAAASUVORK5CYII=" alt="Full Stack Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" 
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-88CC00?style=for-the-badge&logo=greensock&logoColor=white" />
 </p>
@@ -38,11 +35,11 @@ Tenho experiência em arquiteturas modulares, design responsivo e otimização d
 
 ## ✨ Projetos em Destaque
 
-| Projeto                 | Descrição                                            | Tecnologias         | Link                                                         |
-|-------------------------|------------------------------------------------------|---------------------|--------------------------------------------------------------|
-| **Portfolio 3D**        | Site interativo em 3D para apresentação de portfólio | HTML, CSS, Three.js | [Repositório](https://github.com/CaioFelipe/portfolio-3d)     |
-| **Dispenser MyPetSys**  | Controle remoto de dispenser de ração com RF         | Node.js, JS puro     | [Repositório](https://github.com/CaioFelipe/MyPetSys)         |
-| **Dashboard Analítico** | Painel BI com gráficos dinâmicos                     | React, D3.js         | [Repositório](https://github.com/CaioFelipe/dashboard)        |
+| Projeto                 | Descrição                                            | Tecnologias             | Link                                                         |
+|-------------------------|------------------------------------------------------|-------------------------|--------------------------------------------------------------|
+| **Portfolio 3D**        | Site interativo em 3D para apresentação de portfólio | HTML, CSS, Three.js     | [Repositório](https://github.com/CaioFelipe/portfolio-3d)   |
+| **Dispenser MyPetSys**  | Controle remoto de dispenser de ração com RF        | Node.js, JS             | [Repositório](https://github.com/CaioFelipe/MyPetSys)       |
+| **Dashboard Analítico** | Painel BI com gráficos dinâmicos                    | React, D3.js            | [Repositório](https://github.com/CaioFelipe/dashboard)      |
 
 ---
 
@@ -51,6 +48,12 @@ Tenho experiência em arquiteturas modulares, design responsivo e otimização d
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CaioFelipe&show_icons=true&theme=dracula&hide_border=true" height="160" />
   <img src="https://streak-stats.demolab.com?user=CaioFelipe&theme=dracula&hide_border=true" height="160" />
+</p>
+
+### 🧠 Linguagens Mais Usadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFelipe&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 ---
@@ -67,13 +70,13 @@ Tenho experiência em arquiteturas modulares, design responsivo e otimização d
 
 <p align="center">
   <a href="mailto:fcaio5618@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/CaioFelipe">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/caiofelipe">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -81,3 +84,4 @@ Tenho experiência em arquiteturas modulares, design responsivo e otimização d
 
 > **“Inovação, performance e design — entregues com excelência.”**  
 > Última atualização: ![Last commit](https://img.shields.io/github/last-commit/CaioFelipe/CaioFelipe)
+
