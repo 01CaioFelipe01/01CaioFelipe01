@@ -32,6 +32,7 @@ Tenho experiência em arquiteturas modulares, design responsivo e otimização d
 |-------------------------|------------------------------------------------------|---------------------|--------------------------------------------------------------|
 | **Portfolio 3D**        | Site interativo em 3D para apresentação de portfólio | HTML, CSS, Three.js | [Repositório](https://github.com/CaioFelipe/portfolio-3d)     |
 | **Dispenser MyPetSys**  | Controle remoto de dispenser de ração com RF         | Node.js, JS puro     | [Repositório](https://github.com/CaioFelipe/MyPetSys)         |
+| **Dashboard Analítico** | Painel BI com gráficos dinâmicos                     | React, D3.js         | [Repositório](https://github.com/CaioFelipe/dashboard)        |
 
 ---
 
@@ -40,6 +41,14 @@ Tenho experiência em arquiteturas modulares, design responsivo e otimização d
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CaioFelipe&show_icons=true&theme=dracula&hide_border=true" height="160" />
   <img src="https://streak-stats.demolab.com?user=CaioFelipe&theme=dracula&hide_border=true" height="160" />
+</p>
+
+---
+
+## 🏆 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CaioFelipe&theme=onedark&margin-w=10&row=1&column=7" />
 </p>
 
 ---
