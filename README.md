@@ -46,9 +46,10 @@ Tenho experiência em arquiteturas modulares, design responsivo e otimização d
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaioFelipe&show_icons=true&theme=dracula&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CaioFelipe&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160" />
   <img src="https://streak-stats.demolab.com?user=CaioFelipe&theme=dracula&hide_border=true" height="160" />
 </p>
+
 
 ### 🧠 Linguagens Mais Usadas
 
