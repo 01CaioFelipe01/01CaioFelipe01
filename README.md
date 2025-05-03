@@ -43,13 +43,12 @@ Tenho experiência em arquiteturas modulares, design responsivo e otimização d
 
 ---
 
-### 🧠 Linguagens Mais Usadas
+## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFelipe&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CaioFelipe&show_icons=true&theme=dracula&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=CaioFelipe&theme=dracula&hide_border=true" height="160" />
 </p>
-
----
 
 ## 🏆 Troféus
 
@@ -57,7 +56,6 @@ Tenho experiência em arquiteturas modulares, design responsivo e otimização d
   <img src="https://github-profile-trophy.vercel.app/?username=CaioFelipe&theme=onedark&margin-w=10&row=1&column=7" />
 </p>
 
----
 
 ## 🌐 Contato
 
@@ -77,4 +75,3 @@ Tenho experiência em arquiteturas modulares, design responsivo e otimização d
 
 > **“Inovação, performance e design — entregues com excelência.”**  
 > Última atualização: ![Last commit](https://img.shields.io/github/last-commit/CaioFelipe/CaioFelipe)
-
