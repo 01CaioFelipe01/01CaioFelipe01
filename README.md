@@ -1,6 +1,6 @@
 <h1 align="center">➜  ~/CaioFelipe $ npm start 🚀</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+em+Formação;Full+Stack+Developer;IA+%7C+Machine+Learning+%7C+Python;Transformando+ideias+em+realidade" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software;Full+Stack+Developer;IA+%7C+Machine+Learning+%7C+Python;Transformando+ideias+em+realidade" alt="Typing SVG"/>
 </p>
 
 ---
