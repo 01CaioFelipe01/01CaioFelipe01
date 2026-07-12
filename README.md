@@ -1,70 +1,106 @@
-<h1 align="center">➜  ~/CaioFelipe $ npm start 🚀</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software;Full+Stack+Developer;IA+%7C+Machine+Learning+%7C+Python;Transformando+ideias+em+realidade" alt="Typing SVG"/>
-</p>
+````markdown
+<div align="center">
+
+# Olá, eu sou Caio Felipe 👋
+
+### Desenvolvedor Full-Stack · Engenharia de Software · Python · IA & Automação
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full-Stack;Estudante+de+Engenharia+de+Software;Python+%7C+Intelig%C3%AAncia+Artificial+%7C+Automa%C3%A7%C3%A3o;Construindo+aplica%C3%A7%C3%B5es+e+produtos+SaaS"
+  alt="Typing SVG"
+/>
+
+```bash
+➜  ~/CaioFelipe  $ npm start 🚀
+````
+
+</div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de **Engenharia de Software** (Estácio).  
-- 💻 Experiência em **Full-Stack Development** (JS, TS, Node.js, React/Next.js e Python).  
-- 🤖 Apaixonado por **IA**, **Machine Learning** e **automação**.  
-- 🌱 Atualmente explorando **Python para Ciência de Dados** e **SaaS com IA**.  
+Sou estudante de **Engenharia de Software** e desenvolvedor focado na criação de aplicações web, APIs, automações e produtos digitais.
+
+* 🎓 Graduando em **Engenharia de Software pela Estácio**
+* 💻 Experiência com desenvolvimento **Front-end e Back-end**
+* 🐍 Estudando e desenvolvendo soluções com **Python**
+* 🤖 Interesse em **Inteligência Artificial, Machine Learning e automação**
+* 🚀 Construindo projetos com foco em **SaaS e produtos digitais**
+* 📚 Constantemente aprimorando minhas habilidades técnicas e de produto
 
 ---
 
-## 🛠️ Tecnologias Principais
+## 🛠️ Tecnologias e ferramentas
 
-<p align="center">
-  <!-- Linguagens -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<div align="center">
 
-  <!-- IA e Automação -->
-  <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img
+src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,fastapi,postgres,redis,docker,git,github,vscode&perline=8"
+alt="Tecnologias"
+/>
 
-  <!-- Banco de Dados -->
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
 
-  <!-- UI / CSS -->
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer--Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+### Principais conhecimentos
 
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-
-## 🎯 Áreas de Interesse
-
-- 🤖 **Inteligência Artificial**  
-- 📊 **Machine Learning & Data Science**  
-- 🐍 **Python aplicado a dados**  
-- ⚡ **Automação & SaaS com IA**
+```text
+Front-end     React · Next.js · TypeScript · JavaScript · Tailwind CSS
+Back-end      Node.js · Python · FastAPI · APIs REST
+Banco de dados PostgreSQL · MySQL · Redis
+DevOps        Docker · Git · GitHub · Deploy em nuvem
+Outros        Automação · Inteligência Artificial · Integrações
+```
 
 ---
 
+## 🎯 Áreas de interesse
 
-## 📊 Estatísticas
+* 🤖 Inteligência Artificial aplicada a produtos
+* ⚙️ Automação de processos
+* 🧠 Machine Learning e Ciência de Dados
+* 🐍 Desenvolvimento Back-end com Python
+* 🌐 Desenvolvimento de aplicações Full-Stack
+* 🚀 Criação e validação de produtos SaaS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaioFelipe&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=CaioFelipe&theme=radical&hide_border=true" height="160"/>
-</p>
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&hide_border=true&theme=transparent&locale=pt-br&rank_icon=github"
+alt="Estatísticas do GitHub"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&hide_border=true&theme=transparent&locale=pt-br"
+alt="Linguagens mais utilizadas"
+/>
+
+</div>
+
+> As linguagens exibidas representam os repositórios públicos e não necessariamente o nível completo de experiência profissional.
 
 ---
 
 ## 📫 Contato
 
-<p align="center">
-  <a href="mailto:fcaio5618@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/caiofelipe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/caio-felipe-almeida-rodrigues-b0ab85313)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:fcaio5618@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### Transformando ideias em aplicações e automações.
+
+</div>
+```
