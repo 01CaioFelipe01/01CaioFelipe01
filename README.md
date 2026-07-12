@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 # Olá, eu sou Caio Felipe 👋
@@ -44,13 +44,13 @@ alt="Tecnologias"
 
 ### Principais conhecimentos
 
-```text
+
 Front-end     React · Next.js · TypeScript · JavaScript · Tailwind CSS
 Back-end      Node.js · Python · FastAPI · APIs REST
 Banco de dados PostgreSQL · MySQL · Redis
 DevOps        Docker · Git · GitHub · Deploy em nuvem
 Outros        Automação · Inteligência Artificial · Integrações
-```
+
 
 ---
 
@@ -69,17 +69,17 @@ Outros        Automação · Inteligência Artificial · Integrações
 
 <div align="center">
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=01CaioFelipe01&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br"
-  alt="Estatísticas do GitHub"
-/>
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=01CaioFelipe01&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br"
+    alt="Estatísticas do GitHub"
+  />
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=01CaioFelipe01&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
-  alt="Linguagens mais utilizadas"
-/>
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=01CaioFelipe01&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
+    alt="Linguagens mais utilizadas"
+  />
 
 </div>
 
