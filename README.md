@@ -44,13 +44,13 @@ alt="Tecnologias"
 
 ### Principais conhecimentos
 
-
-Front-end     React · Next.js · TypeScript · JavaScript · Tailwind CSS
-Back-end      Node.js · Python · FastAPI · APIs REST
-Banco de dados PostgreSQL · MySQL · Redis
-DevOps        Docker · Git · GitHub · Deploy em nuvem
-Outros        Automação · Inteligência Artificial · Integrações
-
+| Área | Tecnologias |
+| --- | --- |
+| **Front-end** | React, Next.js, TypeScript, JavaScript e Tailwind CSS |
+| **Back-end** | Python, FastAPI, Node.js e APIs REST |
+| **Banco de dados** | PostgreSQL, MySQL e Redis |
+| **DevOps** | Docker, Git, GitHub e deploy em nuvem |
+| **Outros** | Automação, Inteligência Artificial e integrações |
 
 ---
 
