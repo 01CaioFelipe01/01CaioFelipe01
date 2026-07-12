@@ -71,13 +71,13 @@ Outros        Automação · Inteligência Artificial · Integrações
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&hide_border=true&theme=transparent&locale=pt-br&rank_icon=github"
+src="https://github-readme-stats.vercel.app/api?username=01CaioFelipe01&show_icons=true&hide_border=true&theme=transparent&locale=pt-br&rank_icon=github"
 alt="Estatísticas do GitHub"
 />
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&hide_border=true&theme=transparent&locale=pt-br"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=01CaioFelipe01&layout=compact&hide_border=true&theme=transparent&locale=pt-br"
 alt="Linguagens mais utilizadas"
 />
 
@@ -103,4 +103,3 @@ alt="Linguagens mais utilizadas"
 ### Transformando ideias em aplicações e automações.
 
 </div>
-```
