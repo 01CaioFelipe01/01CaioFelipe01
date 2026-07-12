@@ -70,22 +70,20 @@ Outros        Automação · Inteligência Artificial · Integrações
 <div align="center">
 
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=01CaioFelipe01&show_icons=true&hide_border=true&theme=transparent&locale=pt-br&rank_icon=github"
-alt="Estatísticas do GitHub"
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=01CaioFelipe01&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br"
+  alt="Estatísticas do GitHub"
 />
 
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=01CaioFelipe01&layout=compact&hide_border=true&theme=transparent&locale=pt-br"
-alt="Linguagens mais utilizadas"
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=01CaioFelipe01&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
+  alt="Linguagens mais utilizadas"
 />
 
 </div>
 
-> As linguagens exibidas representam os repositórios públicos e não necessariamente o nível completo de experiência profissional.
-
----
+> As linguagens exibidas são calculadas com base nos repositórios públicos e não representam necessariamente o nível de domínio profissional.
 
 ## 📫 Contato
 
